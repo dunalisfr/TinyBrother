@@ -1,0 +1,4 @@
+build/
+**/vmlinux.h
+.idea/
+.vscode/
